@@ -1,1 +1,2 @@
-# mestrado
+alguns projetos/seminários de mestrado. Alguns tópicos incluem conceitos de estruturas de dados (como árvores B e B+), programação dinâmica, e uma ferramenta em desenvolvimento para classificar vozes saudáveis/patológicas. Por ser um tema relacionado, também fica disponível o trabalho de meu tcc, e em breve um notebook jupyter (python) explicando passo a passo o processo do tratamento dos dados (limpeza/seleção de características/modelo e métricas/visualizações).
+# sinta-se à vontade para aprender.
